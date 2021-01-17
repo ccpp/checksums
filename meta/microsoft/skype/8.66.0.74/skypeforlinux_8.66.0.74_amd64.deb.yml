@@ -1,0 +1,9 @@
+name: skypeforlinux_8.66.0.74_amd64.deb
+url: https://repo.skype.com/deb/pool/main/s/skypeforlinux/skypeforlinux_8.66.0.74_amd64.deb
+url-nonperm: https://repo.skype.com/latest/skypeforlinux-64.deb
+version: 8.66.0.74
+size: 84533394
+# Checksum source: https://repo.skype.com/deb/dists/stable/main/binary-amd64/Packages
+sha1: 2f56658a3e956f5e0bb11431c33bd2fe8cd86025
+sha256: 0ed958586e9bc99e2f91a3803314b059761eb21658f4dc85e945392347fe7785
+sha512: d3e9acae45cab83939808001573bd2f945184ac7272ac799890370e66f2262aebabdc4180a2090b00841465edd0b7a59f09e88b3d6101a55a4376d18cbcb4b62

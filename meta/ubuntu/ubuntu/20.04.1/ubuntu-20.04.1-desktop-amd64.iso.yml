@@ -1,0 +1,6 @@
+name: ubuntu-20.04.1-desktop-amd64.iso
+sha256: b45165ed3cd437b9ffad02a2aad22a4ddc69162470e2622982889ce5826f6e3d
+sha256-signature: SHA256SUMS SHA256SUMS.sig
+sha1: 9ef022e7be5dbbc2650f7e4ebd5e9bbfa071b044
+md5: 77fc715a283e41d0ad33d6418a9ba128
+size: 2785017856

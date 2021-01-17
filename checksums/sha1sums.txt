@@ -1,0 +1,6 @@
+14c26d5d89d26ed7a4d435a114024c542254defb *F-Droid.apk
+9d2633fdfe70c4b7f89ba79501131bcdadff0abd *Signal-Android-website-prod-universal-release-4.76.3.apk
+2f56658a3e956f5e0bb11431c33bd2fe8cd86025 *skypeforlinux_8.66.0.74_amd64.deb
+4cc2916fedf2a698dbb799c3e459d5646a31b10f *skypeforlinux_8.67.0.96_amd64.deb
+9ef022e7be5dbbc2650f7e4ebd5e9bbfa071b044 *ubuntu-20.04.1-desktop-amd64.iso
+ec935504657f90a55107123f898dd04f46b8a10b *zoom_amd64.deb
